@@ -1,0 +1,31 @@
+{
+  "name": "sit-313-p-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujal-Chaudhary-1/SIT-313-P-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sujal-Chaudhary-1/SIT-313-P-2/issues"
+  },
+  "homepage": "https://github.com/Sujal-Chaudhary-1/SIT-313-P-2#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
